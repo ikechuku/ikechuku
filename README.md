@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikechuku I'm a Fr
+- 👋 Hi, I’m @ikechuku I'm a Frontend Engineer
 - 👀 I’m interested in learningn and building things with emerging technologies 
 - 🌱 I’m currently learning about the Web3 ecosystem 
 - 💞️ I’m looking to collaborate on web3 projects 
