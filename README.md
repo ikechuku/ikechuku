@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikechuku I'm a Frontend Engineer
 - 👀 I’m interested in learningn and building things with emerging technologies 
-- 🌱 I’m currently learning about the Web3 ecosystem 
+- 🌱 I’m currently learning about the AWS Amplify and Web3 development  
 - 💞️ I’m looking to collaborate on web3 projects 
 - 📫 How to reach me sir_ik@yahoo.com 
 
