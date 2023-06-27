@@ -4,4 +4,4 @@
 - 💞️ My tech stack ( I work with Python, Javascript & Typescripts)
 - 📜 Some of the frameworks I use are React, React Native, VueJS, NextJS, Django, Docker, AWS Amplify 
 - 📫 How to reach me @ sir_ik@yahoo.com
-- https://ikechuku.netlify.app/
+- 🌎 https://ikechuku.netlify.app/
